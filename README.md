@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to My World
 
-You can use the [editor on GitHub](https://github.com/mukeshjhabtc/drpallavi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Being in medical is not just my profession, but it is my passion to see people healing from their poor health conditions. I wish everyone to live a healthy and happy life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I feel content by helping people and hope to serve the community in future. Currently I am aspiring to become a surgeon.
 
-### Markdown
+### My Life
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have always tried to perform my best since school days and I believe that today's performance reflects our success in future.
 
 ```markdown
-Syntax highlighted code block
+2010- Completed 10th (CBSE) from JNV Madhubani
+2012- Completed 12th board (CBSE)
+2013- Joined Medical College as UG.PMCH Patna
+2018- Graduated with MBBS 
+2019- Cleared the college internship
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Fun
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mukeshjhabtc/drpallavi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Apart from being busy in my studies and work, I love travelling, awesome food, and I wish to explore more of them in my life.
