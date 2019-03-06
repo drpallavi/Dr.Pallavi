@@ -25,4 +25,4 @@ I have always tried to perform my best since school days and I believe that toda
 
 Apart from being busy in my studies and work, I love travelling, awesome food, movies, music and I wish to explore more of them in my life.
 
-![My pic]
+![My pic](/img/pallo.jpg)
