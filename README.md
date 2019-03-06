@@ -17,7 +17,7 @@ I have always tried to perform my best since school days and I believe that toda
 **2018**- Graduated with MBBS <br>
 **2019**- Cleared the college internship <br>
 
-
+*"Life is a journey, not a destination"*
 
 
 
