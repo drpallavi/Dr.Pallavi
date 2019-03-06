@@ -9,11 +9,15 @@ I feel content by helping people and hope to serve the community in future. Curr
 I have always tried to perform my best since school days and I believe that today's performance reflects our success in future.
 
 ```markdown
+
 2010- Completed 10th (CBSE) from JNV Madhubani
 2012- Completed 12th board (CBSE)
 2013- Joined Medical College as UG.PMCH Patna
 2018- Graduated with MBBS 
 2019- Cleared the college internship
+
+
+
 
 
 ### Fun
