@@ -12,10 +12,10 @@ I have always tried to perform my best since school days and I believe that toda
 
 
 **2010**- Completed 10th (CBSE) from JNV Madhubani <br>
-2012- Completed 12th board (CBSE) <br>
-2013- Joined Medical College as UG.PMCH Patna <br>
-2018- Graduated with MBBS <br>
-2019- Cleared the college internship <br>
+**2012**- Completed 12th board (CBSE) <br>
+**2013**- Joined Medical College as UG.PMCH Patna <br>
+**2018**- Graduated with MBBS <br>
+**2019**- Cleared the college internship <br>
 
 
 
@@ -24,3 +24,5 @@ I have always tried to perform my best since school days and I believe that toda
 ### Fun
 
 Apart from being busy in my studies and work, I love travelling, awesome food, movies, music and I wish to explore more of them in my life.
+
+![My pic]
