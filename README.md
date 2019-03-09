@@ -2,7 +2,7 @@
 
 Being in medical is not just my profession, but it is my passion to see people healing from their poor health conditions. I wish everyone to live a healthy and happy life.
 
-I feel content by helping people and hope to serve the community in future. Currently I am aspiring to become a surgeon.
+I feel content by helping people and hope to serve the community in future. Currently I am aspiring to become a gynecologist.
 
 <em>"The best doctor gives the least medicines"<em>
 ### My Life
